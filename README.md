@@ -9,7 +9,7 @@ by adding `deep_clean` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:deep_clean, "~> 0.1.0"}]
+  [{:deep_clean, "~> 0.1.1"}]
 end
 ```
 
